@@ -1,0 +1,21 @@
+name: mailcraft-mcp
+displayName: MailCraft - Responsive HTML Emails, Cold Outreach & Deliverability MCP
+description: Universal email infrastructure and growth engine for Cursor, Claude & Windsurf. Generates client-tested responsive HTML/MJML transactional templates, audits deliverability and spam risk scores with SPF/DKIM/DMARC DNS configs, and writes high-converting B2B cold email sequences.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/mailcraft-mcp
+repository: https://github.com/AmyGraphics/mailcraft-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/mailcraft-mcp/main/icon.png
+keywords:
+  - email-templates
+  - mjml
+  - responsive-email
+  - cold-outreach
+  - email-deliverability
+  - dkim-spf-dmarc
+  - resend
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://mailcraft-api.agentweb-hub.workers.dev/mcp
